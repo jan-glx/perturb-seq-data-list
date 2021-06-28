@@ -1,8 +1,8 @@
-Author  Year,experiment  Technology,Target genes,Guides per gene,Control guides,Total guides,Number of cells,Assigned cells,Assigned cells per gene,Guides per cell,Perturbation,Library targets
-Dateligner et al. 2017,CROPseq,29,3,29,116,6958,2755,160,1,NHEJ-KO,T-cell receptor (TCR) signaling
-Dateligner et al. 2017,CROPseq,29,3,29,116,8857,3 449,160,1,NHEJ-KO,transcription factors
-Dixit et al.  2016 ,Perturbseq,24,3,1,68,32 624,all,1400,1,NHEJ-KO,Transcription factors + cell cycle regulators
-Frangieh et al. 2020,Perturbseq,248,3,74,810,218000,all,800,1,NHEJ-KO,Immunologic Constant of Rejection (ICR) signature
-Gasperini et al. 2019,  ,5920,2 to 4,50,,255 000,255 000,516,28,CRISPRi,Enhancers
-Norman et al. 2019,  ,105,1,4,287 pairs,110 000,93 000,850,2,CRISPRa,Growth interaction screen hits
-Jost et al. 2020,  ,25,5 to 6,10,138,,19 600,730,1,CRISPRi,Essential genes
+Author,Year,Experiment,Technology,Target genes,Guides per gene,Control guides,Total guides,Number of cells,Assigned cells,Assigned cells per gene,Guides per cell,Perturbation,Library targets
+"Dateligner et al.",2017,,CROPseq,29,3,29,116,6958,2755,160,1,NHEJ-KO,T-cell receptor (TCR) signaling
+"Dateligner et al.",2017,,CROPseq,29,3,29,116,8857,3 449,160,1,NHEJ-KO,transcription factors
+"Dixit et al.",2016,,Perturbseq,24,3,1,68,32 624,all,1400,1,NHEJ-KO,Transcription factors + cell cycle regulators
+"Frangieh et al.",2020,,Perturbseq,248,3,74,810,218000,all,800,1,NHEJ-KO,Immunologic Constant of Rejection (ICR) signature
+"Gasperini et al.",2019,,  ,5920,2 to 4,50,,255 000,255 000,516,28,CRISPRi,Enhancers
+"Norman et al.",2019,,  ,105,1,4,287 pairs,110 000,93 000,850,2,CRISPRa,Growth interaction screen hits
+"Jost et al.",2020,,  ,25,5 to 6,10,138,,19 600,730,1,CRISPRi,Essential genes
