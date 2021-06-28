@@ -1,5 +1,5 @@
 Author,Year,Experiment,Technology,Target genes,Guides per gene,Control guides,Total guides,Number of cells,Assigned cells,Assigned cells per gene,Guides per cell,Perturbation,Library targets,Cell line,groups,Effects
-"Dixit et al.",2016,,Perturbseq,24,3,1,68,32 624,all,1400,1,NHEJ-KO,Transcription factors + cell cycle regulators, "BMDCs, K562",7/14 days, hardly
+"Dixit et al.",2016,,Perturbseq,24,3,1,68,32624,all,1400,1,NHEJ-KO,Transcription factors + cell cycle regulators, "BMDCs, K562",7/14 days, hardly
 "Dateligner et al.",2017,,CROPseq,29,3,29,116,6958,2755,160,1,NHEJ-KO,T-cell receptor (TCR) signaling,,,hardly
 "Dateligner et al.",2017,,CROPseq,29,3,29,116,8857,3449,160,1,NHEJ-KO,transcription factors,,, hardly
 "Hill et al.",2018,,CROP-seq,32,6,6,198,5879,94%,167,1,CRISPRi,Tumor suppressors,MCF10A, +/- doxorubicin, "yes, e.g., p53"
