@@ -1,4 +1,4 @@
-Publication	dataset	Target genes	Guides per gene	Control guides	Total guides	Number of cells	Assigned cells	Assigned cells per gene	Perturbation	Library targets
+Publication	experiment	Target genes	Guides per gene	Control guides	Total guides	Number of cells	Assigned cells	Assigned cells per gene	Perturbation	Library targets
 CROPseq		29	3	29	116	  6 958 + 8 857	2 755	160	NHEJ-KO	T-cell receptor (TCR) signaling + transcription factors
 Dateligner et al. 	2017						3 449			
 Perturbseq		24	3	1	68	32 624	all	1400	NHEJ-KO	Transcription factors + cell cycle regulators
