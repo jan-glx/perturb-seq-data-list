@@ -1,3 +1,6 @@
+**DEPRECATED:
+<br>This list mooved to [this google sheet](https://docs.google.com/spreadsheets/d/1zDGwpn5Ctvqg7tvnxM8DIFwu-nV2ZBZ1cgPxsXKXlAg/edit?usp=sharing) to simplify editing. <br> Again, contributions more than welcome!**
+---
 # Perturb-seq & co. data set list
 This repository provides a (incomplete) list of published CRISPR-screens with scRNA-seq read-out (Perturb-seq / CROP-seq (/ CRISP-seq))
 
